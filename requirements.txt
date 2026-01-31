@@ -1,0 +1,8 @@
+torch
+torchvision
+timm
+opencv-python
+numpy
+matplotlib
+pydicom
+pytorch-grad-cam
